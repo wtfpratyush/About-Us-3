@@ -5,19 +5,19 @@ const team = [
     name: "Mr. Shiv Garg",
     role: "FOUNDER, SKS DEVELOPMENTS",
     desc: "Built over 200+ premium homes. Owns a successful retail chain. Investor in 10+ companies across real estate, retail, and startups. Expertise: property development, business expansion, and strategic investment.",
-    img: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    img: "/team/shiv-garg.png"
   },
   {
     name: "Mr. Sunny Goel",
     role: "SEASONED ENTREPRENEUR",
     desc: "Deep expertise in finance, infrastructure, wellness, and advisory services. SDSG & Co., Aditi Sales, Vault by Virat Kohli, Thrive Consultants. Expertise: finance, structured growth, business strategy, and cross-border advisory.",
-    img: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    img: "/team/sunny-goel.png"
   },
   {
     name: "Mr. Shikhar Bathla",
     role: "FOUNDER, THAT'S CREATIVE",
     desc: "Branding & marketing agency. Co-Founder, Unlock Velocity. Director, Herbocleanz Pvt Ltd. Thrive Consultants. Expertise: marketing systems, digital growth, and brand development.",
-    img: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    img: "/team/shikhar-bathla.png"
   }
 ];
 
